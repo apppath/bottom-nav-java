@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_account_balance_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Setting" />
+
+
+    <item
+    android:id="@+id/favsFragment"
+    android:icon="@drawable/ic_speaker_notes_black_24dp"
+    android:title="Message" />
+
+    <item
+        android:id="@+id/playerFragment"
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="Players" />
+
+</menu>
